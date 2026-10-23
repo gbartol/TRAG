@@ -1,0 +1,9 @@
+Promijeni prezentaciju ovako:
+1. na prvi slide umjesto Mathematics itd. stavi da smo studenti tih smjerova
+2. gdje mozes stavi linkove na source, gdje ne mozes nemoj
+3. makni criterione na vrhu slideova
+4. na šestom slideu stavi imena točnih postrojenja
+5. na devetom slideu makni ovo dolje "we never sell to the plants we monitor...."
+6. na desetom slideu za PRIHODE zelim tocne procjene prema postojecim ugovorima koja je drzava potpisivala za slicne sustave. Za RASHODE objasni (nemoj stavit na prezentaciju) zasto su toliko visoki i daj optimisticniju procjenu. Makni komentar dolje "low marginal cost..."
+7. provjeri (nemoj stavit na prezentaciju) kakvi su registri u stranim državama poput ROO-a i moze li se nas projekt stvarno skalirati.
+8. makni 12. slide
